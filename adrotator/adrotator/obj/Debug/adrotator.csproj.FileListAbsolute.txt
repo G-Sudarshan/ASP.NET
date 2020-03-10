@@ -1,0 +1,4 @@
+c:\users\g.sudarshan\documents\visual studio 2010\Projects\adrotator\adrotator\bin\adrotator.dll
+c:\users\g.sudarshan\documents\visual studio 2010\Projects\adrotator\adrotator\bin\adrotator.pdb
+c:\users\g.sudarshan\documents\visual studio 2010\Projects\adrotator\adrotator\obj\Debug\adrotator.dll
+c:\users\g.sudarshan\documents\visual studio 2010\Projects\adrotator\adrotator\obj\Debug\adrotator.pdb
